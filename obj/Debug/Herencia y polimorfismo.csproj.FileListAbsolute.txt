@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Herencia y polimorfismo\Herencia y polimorfismo\bin\Debug\Herencia y polimorfismo.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Herencia y polimorfismo\Herencia y polimorfismo\bin\Debug\Herencia y polimorfismo.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Herencia y polimorfismo\Herencia y polimorfismo\bin\Debug\Herencia y polimorfismo.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Herencia y polimorfismo\Herencia y polimorfismo\obj\Debug\Herencia y polimorfismo.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Herencia y polimorfismo\Herencia y polimorfismo\obj\Debug\Herencia y polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Herencia y polimorfismo\Herencia y polimorfismo\obj\Debug\Herencia y polimorfismo.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Herencia y polimorfismo\Herencia y polimorfismo\obj\Debug\Herencia y polimorfismo.pdb
